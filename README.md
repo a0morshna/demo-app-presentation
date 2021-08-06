@@ -30,4 +30,4 @@ The main aim of a project:
 
 2. [Link for an open source project. ](https://github.com/circletes/demoita)
 
-3. [Link for demo-app presentation. ](https://docs.google.com/presentation/d/1WXQjwWDSVXaDDJzb1nnV00surGEc4aOLONCihzI_kfU/edit?usp=sharing)
+3. [Link for demo-app presentation. ](https://github.com/a0morshna/demo-app-presentation/blob/main/Demo-Project.pdf)
